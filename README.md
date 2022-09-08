@@ -1,4 +1,5 @@
-# lib-py-pypitemplate
+# template-py.pypitemplate
+
 This is template repository with an easy set up to release packages to pypi
 
 ## Guide on how to use this repository
